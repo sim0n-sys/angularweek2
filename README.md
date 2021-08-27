@@ -18,3 +18,5 @@ Technologies used are as follows
 
 ### License
 Copyright SIMON MUNGAI 2021
+
+Permission is hereby granted, free of charge
