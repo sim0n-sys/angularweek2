@@ -12,3 +12,5 @@ Technologies used are as follows
 * CSS
 * javascript
 * angular
+
+## contact details
