@@ -17,3 +17,4 @@ Technologies used are as follows
 * Email Simonalexno@gmail.com.
 
 ### License
+Copyright SIMON MUNGAI 2021
