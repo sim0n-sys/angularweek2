@@ -15,3 +15,5 @@ Technologies used are as follows
 
 ## contact details
 * Email Simonalexno@gmail.com.
+
+### License
