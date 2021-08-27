@@ -8,7 +8,7 @@ Simon Mungai Njoroge- This project was completed as part of Code Moringa Mentore
 
 ## Technologies Used
 Technologies used are as follows
-* HTML5
+* HTML5the following conditions:
 * CSS
 * javascript
 * angular
@@ -24,4 +24,4 @@ of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
 to use, copy, modify, merge,publish,distribute, sublicense, and/or sell
 copies of the Software,and to permit persons to whom the Software is
-furnished to do so, subject to
+furnished to do so, subject to the following conditions:
