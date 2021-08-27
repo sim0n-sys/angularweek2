@@ -5,3 +5,9 @@ information of the account.
 
 ## ATHOR
 Simon Mungai Njoroge- This project was completed as part of Code Moringa Mentored Online Full Stack Web Development course in 2021.
+
+## Technologies Used
+Technologies used are as follows
+* HTML5
+* CSS
+* javascript
