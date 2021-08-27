@@ -14,4 +14,4 @@ Technologies used are as follows
 * angular
 
 ## contact details
-* Email
+* Email Simonalexno@gmail.com.
